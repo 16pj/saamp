@@ -2,6 +2,11 @@
 
 FIXME: Trying to learn clojure better with a game that's inspired from https://noobtuts.com/clojure/2d-snake-game
        Hope this helps me learn better and extend from what they taught.
+
+Just do 
+
+    lein run
+
 ## Installation
 
 Download from http://example.com/FIXME.
