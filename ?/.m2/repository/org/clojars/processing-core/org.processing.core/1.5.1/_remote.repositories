@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 06 11:10:37 CET 2020
+org.processing.core-1.5.1.jar>clojars=
+org.processing.core-1.5.1.pom>clojars=
